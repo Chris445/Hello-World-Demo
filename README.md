@@ -3,7 +3,7 @@
 <html>
 <head>
  <title>Hello, World!</title>
- <meta name=“author” content=“Chris Giglio’>
+ <meta name="author" content=“Chris Giglio’>
 </head>
 <body>
 
