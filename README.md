@@ -1,7 +1,4 @@
 # Hello-World-Demo
-first HTML
-
-
 <!doctype html> 
 <html>
 <head>
